@@ -8,9 +8,14 @@ Overall, Map Editor served as a practical exercise in applying programming conce
 
 Controls:
 
-Space bar - paint and erase;
-C - clear grid;
-S - save;
-L - Load;
-1,2,3 - change colour;
+Space bar - paint and erase;  
+C - clear grid;  
+S - save;  
+L - Load;  
+1,2,3 - change colour;  
 0 - change to initial colour.
+
+<br>
+<p align="center">
+  <img src="https://github.com/pedroMoreira96/PaintDaWish/assets/159487606/be1b270f-7674-4aa5-aa6d-f3e338d7414a" alt="cover" style="width: 50%;"/>
+</p>
