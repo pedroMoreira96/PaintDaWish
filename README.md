@@ -8,7 +8,8 @@ Overall, Map Editor served as a practical exercise in applying programming conce
 
 ### Controls:
 
-Arrows: movement  
+
+Arrows: movement;  
 SPACE: paint and erase;  
 1-9: change colour;  
 C: clear grid;  
