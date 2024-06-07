@@ -6,14 +6,15 @@ Map Editor is a straightforward application inspired by Paint, designed to creat
 
 Overall, Map Editor served as a practical exercise in applying programming concepts learnt during the first weeks of the bootcamp and reinforced my understanding of software development fundamentals.
 
-Controls:
+### Controls:
 
-Space bar - paint and erase;  
-C - clear grid;  
-S - save;  
-L - Load;  
-1,2,3 - change colour;  
-0 - change to initial colour.
+Arrows: movement  
+SPACE: paint and erase;  
+1-9: change colour;  
+C: clear grid;  
+S: save;  
+L: load;  
+ESC: quit.
 
 <br>
 <p align="center">
