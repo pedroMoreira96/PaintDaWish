@@ -12,8 +12,7 @@ Space bar - paint and erase;
 C - clear grid;  
 S - save;  
 L - Load;  
-1,2,3 - change colour;  
-0 - change to initial colour.
+1-9 - change colour;
 
 <br>
 <p align="center">
