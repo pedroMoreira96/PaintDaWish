@@ -24,7 +24,6 @@ public class Grid {
         HEIGHT = cellSize * rows;
         SQUARES = new Square[cols][rows];
         color = Color.BLACK;
-
     }
 
     public void drawCanvas() {

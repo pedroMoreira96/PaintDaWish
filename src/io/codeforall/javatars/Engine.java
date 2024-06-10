@@ -1,7 +1,6 @@
 package io.codeforall.javatars;
 
 import org.academiadecodigo.simplegraphics.graphics.Color;
-
 import javax.swing.*;
 import javax.swing.filechooser.FileNameExtensionFilter;
 import java.io.*;

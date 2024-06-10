@@ -6,6 +6,8 @@ Map Editor is a straightforward application inspired by Paint, designed to creat
 
 Overall, Map Editor served as a practical exercise in applying programming concepts learnt during the first weeks of the bootcamp and reinforced my understanding of software development fundamentals.
 
+You can use it by running the PaintDaWish.jar file in the build directory.
+
 ### Controls:
 
 
@@ -17,7 +19,6 @@ S: save;
 L: load;  
 ESC: quit.
 
-<br>
 <p align="center">
   <img src="https://github.com/pedroMoreira96/PaintDaWish/assets/159487606/be1b270f-7674-4aa5-aa6d-f3e338d7414a" alt="cover" style="width: 50%;"/>
 </p>
